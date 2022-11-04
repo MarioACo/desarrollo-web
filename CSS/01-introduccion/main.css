@@ -1,0 +1,9 @@
+/*Selectore: Los selectores son instrucciones que se utilizan para seleccionar las etiquetas de html*/
+body{
+    background-color: #eeeeee;/*Acepta digitos hexadecimal que van del 1 al 9 y de la a a la f
+                                background-color nos permite cambiar el color de fondo
+                                Siendo ffffff la combinacion de blancos y 000000 la combinacion de negros
+                                los tonos grices serian #eeeeee*/
+    color: #ff0000;/*Cambia el color del texto*/
+}
+

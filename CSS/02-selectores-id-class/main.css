@@ -1,0 +1,11 @@
+body{
+    background-color: #efefef;
+}
+
+#parrafo {/*Para seleccionar los elementos por el id lo haremos por un #*/
+    color: #ff0000;
+}
+
+.etiqueta {/*Para seleccionar los elementos de una clase los hacemos por un .*/
+    color: #00aa00;
+}
